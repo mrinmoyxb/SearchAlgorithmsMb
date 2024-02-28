@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: searchAlgorithmsMb
+Version: 0.4
+Author: Mrinmoy Borah
+
+A simple python library that includes two search algorithms: Linear Search and Binary Search
