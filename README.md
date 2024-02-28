@@ -52,6 +52,12 @@ else:
     print("Not found!")
 ```
 ## Contributing
+<<<<<<< HEAD
 Contributions are welcome! If you’d like to add more search algorithms or improve existing ones, feel free to submit a pull request. Drop a like and follow me on the [github.](https://github.com/mrinmoyxb)
 
 Happy coding! 🚀
+=======
+Contributions are welcome! If you’d like to add more search algorithms or improve existing ones, feel free to submit a pull request. Drop a like and followe me on the [github.](https://github.com/mrinmoyxb)
+
+Happy coding! 🚀
+>>>>>>> 4058495713ea8d221d51289ef18a97a58f2860bf
