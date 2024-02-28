@@ -5,7 +5,10 @@ This Python library provides efficient implementations of two common search algo
 ## Installation:
 You can install this library using pip:
 
-```pip install searchAlgorithmsMb```
+```
+pip install searchAlgorithmsMb
+
+```
 
 
 ## Usage
