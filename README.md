@@ -7,7 +7,6 @@ You can install this library using pip:
 
 ```
 pip install searchAlgorithmsMb
-
 ```
 
 
